@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+.obsidian/workspace.json
+.DS_Store
+Thumbs.db
